@@ -17,7 +17,7 @@ Asegúrate de tener Node.js y npm instalados en tu máquina. Luego, sigue estos 
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-proyecto.git
+   git clone https://github.com/HeiderGutierrez/pt-inteia.git
 
 2. Navega al directorio del proyecto:
 
